@@ -38,7 +38,7 @@ export const loadRecipe = async function (id) {
       state.recipe.bookmarked = true;
     else state.recipe.bookmarked = false;
 
-    console.log(state.recipe);
+    // console.log(state.recipe);
   } catch (err) {
     // Temp error handling
     console.error(`${err} 💢`);
@@ -137,7 +137,7 @@ export const uploadRecipe = async function (newRecipe) {
 
         return { quantity: quantity ? +quantity : null, unit, description };
       });
-    console.log(ingredients);
+    // console.log(ingredients);
 
     const recipe = {
       title: newRecipe.title,
