@@ -29,11 +29,7 @@ It was developed within JavaScript. The project was focused around writing in th
 
 The app was created as part of [Jonas Schmedtmann's JavaScript course on Udemy](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview).
 The HTML and CSS code involved in this project were pre-written by Jonas Schmedtmann.
-<<<<<<< HEAD
 To find more info about the API click on [this LINK](https://forkify-api.herokuapp.com/v2).
-=======
-To find more info about the API click on [this LINK](https://forkify-api.herokuapp.com/v2)
->>>>>>> 4a05503d444162b792de3a752741668582237091
 
 ## Planned features
 
