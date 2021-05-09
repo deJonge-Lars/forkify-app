@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-TBH ADDED
+[Link to the live demo version](https://forkify-larsdejonge.netlify.app/)
 
 ## Technologies used
 
@@ -29,7 +29,7 @@ It was developed within JavaScript. The project was focused around writing in th
 
 The app was created as part of [Jonas Schmedtmann's JavaScript course on Udemy](https://www.udemy.com/the-complete-javascript-course/learn/v4/overview).
 The HTML and CSS code involved in this project were pre-written by Jonas Schmedtmann.
-To find more info about the API click on [this LINK](https://forkify-api.herokuapp.com/v2).
+To find more info about the API click on [this link](https://forkify-api.herokuapp.com/v2) it will bring you to the API page.
 
 ## Planned features
 
